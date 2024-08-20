@@ -1,8 +1,13 @@
+
 # Zomato Data Analysis Project
 
 ## Project Objective
 
 The objective of this project is to perform an in-depth analysis of Zomato restaurant data to uncover patterns in customer behavior, restaurant performance, and market trends. This analysis aims to provide actionable insights that can help Zomato and restaurant owners make data-driven decisions.
+
+## Data Source
+
+The data for this project is sourced from [YouTube-Video-Notes Zomato Python Project](https://github.com/TheiScale/YouTube-Video-Notes/tree/main/Zomato_Python_Project).
 
 ## Data Overview
 
@@ -37,9 +42,4 @@ The dataset used in this analysis contains information on various restaurants li
    - **Enhance Online Presence**: Restaurants should focus on improving their online ordering systems, as this is positively correlated with higher ratings.
    - **Focus on Mid-Range Pricing**: Given the customer preference for restaurants with approximately 300 rupees for two people, restaurants in this pricing category should be strategically promoted.
    - **Targeted Marketing for Dining**: Since dining restaurants are the most popular, targeted promotions and offers in this segment could drive further customer engagement.
-
-### 5. **Next Steps**
-   - **Further Analysis**: Segment the data by geographic location to understand regional preferences and trends.
-   - **Predictive Modeling**: Build models to predict future customer behavior and restaurant performance based on historical data.
-   - **A/B Testing**: Implement and analyze the impact of various marketing strategies or service changes.
 
